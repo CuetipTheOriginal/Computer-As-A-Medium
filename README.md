@@ -1,4 +1,4 @@
 # Computer As A Medium
 ### This is a repo for the Computer As A Medium Fall 2026
 ### Group Name:
-### Group Members: Sydney Lambert, Gabriel Sarriera, 
+### Group Members: Sydney Lambert, Gabriel Sarriera, Joshua Wysluzaly
